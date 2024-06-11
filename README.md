@@ -1,6 +1,6 @@
 This repo servers just as a file host for the AUR package [pantum-driver](https://aur.archlinux.org/packages/pantum-driver)
 
-####Compatible Printers
+#### Compatible Printers
 P2200 P2200W
 P2500 P2509 P2509W P2500W P2502 P2502W P2506
 P3010D P3010DW P3018DW P3012DW
