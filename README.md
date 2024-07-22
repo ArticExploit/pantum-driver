@@ -16,3 +16,7 @@ This repo servers just as a file host for the AUR package [pantum-driver](https:
 - BP5100DN BP5100DW
 - BM5100ADN BM5100ADW BM5100FDN BM5100FDW
 - L2710FDW
+
+#### Source
+https://drivers.pantum.com/userfiles/files/download/drive/2013/Pantum%20Ubuntu%20Driver%20V1_1_123.zip
+SHA=`71d8b382a4a974600874f8891afec086747ffdcd0815fd6bf8d0c80d44227eff`
